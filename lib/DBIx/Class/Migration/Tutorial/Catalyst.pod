@@ -21,7 +21,7 @@ enviroment specific configurations.
 
 Update you C<dist.ini> file:
 
-    name    = DBIx-Class-Migration
+    name    = MusicBase-Web
     author  = John Napiorkowski <jjnapiork@cpan.org>
     license = Perl_5
     copyright_holder = John Napiorkowski
